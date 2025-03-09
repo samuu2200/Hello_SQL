@@ -1,1 +1,2 @@
-# Hello_SQL
+# Hello SQL
+aprendiendo SQL con buenas prácticas
